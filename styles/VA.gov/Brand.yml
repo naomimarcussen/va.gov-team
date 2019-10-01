@@ -1,0 +1,8 @@
+extends: substitution                                                                                                   
+message: Use '%s' instead of '%s'.                                                                                      
+level: error                                                                                                            
+link: https://plainlanguage.gov/guidelines/words/use-the-same-terms-consistently/                                       
+ignorecase: true                                                                                                        
+swap:
+  "(?:Va.gov)": VA.gov
+  dsva: DSVA
