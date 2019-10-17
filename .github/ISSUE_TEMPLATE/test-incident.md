@@ -2,10 +2,10 @@
 name: Test Incident Template
 about: This is the template that you should use when you are performing quality assurance on behalf of a VFS team when you encounter one of the following things -- 
 1. Functional defect
-1. Enhancement opportunity
-1. Usability issue
+2. Enhancement opportunity
+3. Usability issue
 title: ''
-labels: bug
+labels: ''
 assignees: ''
 
 ---
